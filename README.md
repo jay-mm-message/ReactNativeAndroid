@@ -4,3 +4,10 @@ book:
   佳魁資訊
 年份:
   2019
+
+
+Create Project:
+  react-native init <project-name>
+
+Example:
+  react-native init android
