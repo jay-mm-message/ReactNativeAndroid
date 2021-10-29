@@ -13,6 +13,10 @@ Example:
   react-native init android
 
 
+AVD:
+  Pixel2
+  system image: API 27 (Oreo)
+
 Error:
 Can't open emulator by using react-native `run-andrid`
   vim ~/.zshrc
